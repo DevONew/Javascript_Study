@@ -1,2 +1,2 @@
 # Javascript_Study
-Javascript study- programmers level 1
+Javascript study- programmers 문제 풀기
